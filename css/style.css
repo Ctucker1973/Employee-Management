@@ -152,7 +152,7 @@ nav .right-nav img{
   background: gray;
 }
 .content{
-  border-collapse: 20px
+  border-collapse: 20px;
   width: 100%;
   height: 450px;
   overflow: scroll;
